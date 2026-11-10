@@ -1,10 +1,11 @@
 ---
-title: "NFeMiner | SEFAZ-RS and USP"
-excerpt: "<b>2025</b> · AI, data mining and NLP.<br/>Structuring, enriching and grouping product descriptions from Brazilian electronic invoices (NF-e) with LLMs, clustering and Elasticsearch."
+title: "NFeMiner"
+excerpt: "<b>Organizations:</b> SEFAZ-RS · USP<br/><b>Period:</b> 2025<br/>Structuring, enriching and grouping product descriptions from Brazilian electronic invoices (NF-e) with LLMs, clustering and Elasticsearch."
 collection: portfolio
 permalink: /portfolio/nfeminer/
 ---
 
+**Organizations:** SEFAZ-RS · USP  
 **Period:** 2025  
 **Area:** Artificial Intelligence, Data Mining and Natural Language Processing
 

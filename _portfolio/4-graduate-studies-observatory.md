@@ -1,10 +1,11 @@
 ---
-title: "Graduate Studies Observatory | CAPES, UFMS, FAPEC and USP"
-excerpt: "<b>2025 – 2026</b> · Text mining, data science and public policy.<br/>Measuring the semantic affinity between Brazilian graduate research and strategic public-interest themes."
+title: "Graduate Studies Observatory"
+excerpt: "<b>Organizations:</b> CAPES · UFMS · FAPEC · USP<br/><b>Period:</b> 2025 – 2026<br/>Measuring the semantic affinity between Brazilian graduate research and strategic public-interest themes."
 collection: portfolio
 permalink: /portfolio/graduate-studies-observatory/
 ---
 
+**Organizations:** CAPES · UFMS · FAPEC · USP  
 **Period:** 2025 – 2026  
 **Area:** Artificial Intelligence, Text Mining, Data Science and Public Policy
 

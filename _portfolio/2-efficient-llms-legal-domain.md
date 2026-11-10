@@ -1,10 +1,11 @@
 ---
-title: "Efficient LLMs for the Legal Domain | UFMS and USP"
-excerpt: "Efficient inference, quantization and knowledge distillation to reduce the computational cost of LLMs in the legal domain."
+title: "Efficient LLMs for the Legal Domain"
+excerpt: "<b>Organizations:</b> UFMS · USP<br/>Efficient inference, quantization and knowledge distillation to reduce the computational cost of LLMs in the legal domain."
 collection: portfolio
 permalink: /portfolio/efficient-llms-legal-domain/
 ---
 
+**Organizations:** UFMS · USP  
 **Area:** Large Language Models, Efficient Inference and Legal AI
 
 Applied research project in partnership with the Federal University of Mato Grosso do Sul (UFMS), focused on computationally efficient solutions for using large language models (LLMs) in the legal domain.

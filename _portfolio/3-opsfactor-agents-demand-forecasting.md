@@ -1,10 +1,11 @@
 ---
-title: "Intelligent Agents and Demand Forecasting | OpsFactor, CNPq and USP"
-excerpt: "<b>2025 – 2026</b> · Multi-agent systems, knowledge graphs and forecasting.<br/>An LLM agent that operates a business platform through APIs, plus multi-product demand forecasting for inventory management."
+title: "Intelligent Agents and Demand Forecasting"
+excerpt: "<b>Organizations:</b> OpsFactor · CNPq · USP<br/><b>Period:</b> 2025 – 2026<br/>An LLM agent that operates a business platform through APIs, plus multi-product demand forecasting for inventory management."
 collection: portfolio
 permalink: /portfolio/opsfactor-agents-demand-forecasting/
 ---
 
+**Organizations:** OpsFactor · CNPq · USP  
 **Period:** 2025 – 2026  
 **Area:** Artificial Intelligence, Multi-Agent Systems, Knowledge Graphs and Forecasting
 
