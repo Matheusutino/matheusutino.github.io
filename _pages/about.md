@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Artificial Intelligence researcher at the **University of São Paulo (USP)**, working mainly on **Natural Language Processing** and **Large Language Models (LLMs)**.
+I am an Artificial Intelligence researcher at the **University of São Paulo (USP)** in São Carlos, working mainly on **Natural Language Processing** and **Large Language Models (LLMs)**.
+
+Alongside research, I work as a Teaching Assistant (PAE) in undergraduate AI, Machine Learning and Data Science courses at USP, and as a tutor in the MBA in Artificial Intelligence and Big Data at ICMC/USP. Before that, I worked as a Junior Data Scientist at Wikki Brasil, using LLMs to automate report generation and data classification.
 
 Research interests
 ------
