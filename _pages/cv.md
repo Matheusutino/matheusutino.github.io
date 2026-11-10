@@ -9,6 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+======
+* **Ph.D. in Computer Science** (in progress), ICMC, University of São Paulo, 2026 – present
+  * Project: *Event-Based World Models for Multimodal Scenario Simulation*
+  * Advisor: Prof. Ricardo Marcondes Marcacini
+* **M.Sc. in Computer Science and Computational Mathematics**, ICMC, University of São Paulo, 2024 – 2026
+  * Dissertation: *Text Mining in the Era of Large Language Models*
+  * Advisor: Prof. Ricardo Marcondes Marcacini
+* **Volunteer Researcher** (improvement program in Computing), University of São Paulo, 2023 – 2024
+* **Academic exchange in Computer Engineering**, University of Porto, Portugal, 2023 (Santander scholarship)
+* **B.Sc. in Computer Engineering**, University of São Paulo, 2019 – 2023
+
 Work experience
 ======
 * **Tutor**, MBA in Artificial Intelligence and Big Data (ICMC/USP), May 2025 – present, remote
@@ -17,6 +29,11 @@ Work experience
 
 * **Teaching Assistant (PAE)**, University of São Paulo, Feb 2025 – present, São Carlos
   * Artificial Intelligence; Applications of Artificial Intelligence; Data Science Practice III; Applications of Machine Learning and Data Mining
+
+* **Tutor**, IX Advanced School on Big Data Analysis (EABDA), USP, 2025
+
+* **Instructor**, Udemy, 2023 – present
+  * Online courses in Artificial Intelligence
 
 * **Junior Data Scientist**, Wikki Brasil, Apr 2024 – Nov 2024, remote
   * Prompt engineering and LLMs to automate report generation and data classification
@@ -36,6 +53,24 @@ Skills
 * Machine Learning, Deep Learning, Graph Neural Networks, Data Mining
 * Python, Pandas, NumPy, Scikit-learn, Sentence Transformers, NetworkX
 * HTML, CSS, JavaScript, Node.js
+
+Awards
+======
+* Outstanding Student, University of São Paulo, 2019
+* **3rd / 303**, Generative AI Competition (Bitgrit), 2023
+* **1st / 10**, ML Olympiad: Urban Traffic Density (Kaggle), 2024
+* **2nd / 48**, DUDSS 2023 Stroke Prediction (Kaggle), 2023
+* **2nd / 84**, Salary Prediction for Job Postings (Kaggle), 2023
+* **4th / 54**, ML Olympiad: Nashik Weather (Kaggle), 2024
+* **5th / 23**, Bluechip-Summit Employee Attrition Prediction (Kaggle), 2023
+* **7th / 80**, Machine Learning for Band Gap Prediction (Kaggle), 2024
+* **7th / 44**, ML Olympiad: Toxic Language (PT-BR) Detection (Kaggle), 2024
+
+Certifications
+======
+* AWS Certified Cloud Practitioner (Amazon AWS), 2024
+* Azure AI Fundamentals (Microsoft), 2024
+* Academy Accreditation: Generative AI Fundamentals (Databricks), 2024
 
 Publications
 ======
@@ -60,4 +95,6 @@ Service and leadership
 ======
 * **Member of the course board**, SAEComp (Academic Secretariat for Computer Engineering, USP São Carlos), Apr 2020 – Jan 2022
   * Managed the student mentoring program during freshman orientation and helped organize academic events
-* Undergraduate thesis (TCC) examination committees, MBA in AI and Big Data (ICMC/USP)
+* Examination committees for 30+ undergraduate theses (Computer Science, USP) and MBA monographs (MBA in AI and Big Data, ICMC-USP), 2025 – 2026
+* **Journal reviewer:** Information Processing & Management; Scientific Reports; Pattern Analysis and Applications; Journal of the Brazilian Computer Society; SBC Computing Reviews; Journal of Information Systems; AI, Computer Science and Robotics Technology
+* **Conference reviewer:** CIKM 2026; BMVC 2024; KDIR 2025; BRACIS 2025; WebMedia 2025; SBBD 2026; STIL 2025–2026; ENIAC 2025–2026; KDMiLe 2026; WICS 2025–2026

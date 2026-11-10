@@ -7,18 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an Artificial Intelligence researcher at the **University of São Paulo (USP)** in São Carlos, working mainly on **Natural Language Processing** and **Large Language Models (LLMs)**.
+I am a **Ph.D. student in Computer Science** at the Institute of Mathematics and Computer Sciences of the University of São Paulo (**ICMC-USP**), advised by Prof. Ricardo Marcondes Marcacini. My doctoral research focuses on **World Models** for representing, forecasting and simulating streams of events, under the project *Event-Based World Models for Multimodal Scenario Simulation*.
 
-Alongside research, I work as a Teaching Assistant (PAE) in undergraduate AI, Machine Learning and Data Science courses at USP, and as a tutor in the MBA in Artificial Intelligence and Big Data at ICMC/USP. Before that, I worked as a Junior Data Scientist at Wikki Brasil, using LLMs to automate report generation and data classification.
+I hold an **M.Sc. in Computer Science and Computational Mathematics** from ICMC-USP (2026), with the dissertation *Text Mining in the Era of Large Language Models*. During my master's I studied text representations, classification, automatic labeling, weakly supervised learning and LLM-based agents. Before that, I earned a **B.Sc. in Computer Engineering** from the University of São Paulo (2023), including an academic exchange at the **University of Porto**, Portugal, with a Santander scholarship.
 
-Research interests
+What I'm working on now
 ------
-* **Large Language Models and text embeddings**: comparing BERT, LLM-based and LLM2Vec representations for text classification and semantic retrieval, and hybrid BERT–LLM strategies that reduce the cost of large-scale classification.
-* **Learning with less annotation**: weak labeling with LLMs and synthetic data generation for low-resource tasks.
-* **NLP for mental health**: topic modeling and monitoring of depression-related content on social networks.
-* **AI for the public sector**: predicting the affinity between researchers and government strategic themes, and privacy-preserving web agents built on open LLMs.
-* **Applied machine learning**: graph neural networks, text mining, and automated essay scoring.
+* **Research:** event-based World Models for my Ph.D., plus applied research projects with government data, legal documents and time series, building AI methods for analysis, forecasting and decision support.
+* **Teaching:** Teaching Assistant (PAE) in undergraduate AI, Machine Learning and Data Science courses at USP, and tutor in the **MBA in Artificial Intelligence and Big Data** at ICMC-USP (Text Mining, Deep Learning and Data Mining).
+* **Scientific community:** reviewer for journals such as *Information Processing & Management*, *Scientific Reports* and the *Journal of the Brazilian Computer Society*, and for conferences such as CIKM, BRACIS, KDIR and STIL.
 
-Highlights
-------
-My work has been published at venues such as SBAC-PAD, BRACIS, ICWSM, ENIAC, STIL and the *Journal of the Brazilian Computer Society*. See the full list on the [Publications](/publications/) page or on my [Google Scholar profile](https://scholar.google.com/citations?user=FdirnJQAAAAJ).
+Previously, I worked as a **Junior Data Scientist** at Wikki Brasil, using LLMs to automate report generation and data classification.
