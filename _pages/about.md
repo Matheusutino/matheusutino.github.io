@@ -9,7 +9,7 @@ redirect_from:
 
 I am a **Ph.D. student in Computer Science** at the Institute of Mathematics and Computer Sciences of the University of São Paulo (**ICMC-USP**), advised by Prof. Ricardo Marcondes Marcacini. My doctoral research focuses on **World Models** for representing, forecasting and simulating streams of events, under the project *Event-Based World Models for Multimodal Scenario Simulation*.
 
-I hold an **M.Sc. in Computer Science and Computational Mathematics** from ICMC-USP (2026), with the dissertation *Text Mining in the Era of Large Language Models*. During my master's I studied text representations, classification, automatic labeling, weakly supervised learning and LLM-based agents. Before that, I earned a **B.Sc. in Computer Engineering** from the University of São Paulo (2023), including an academic exchange at the **University of Porto**, Portugal, with a Santander scholarship.
+I hold an **M.Sc. in Computer Science and Computational Mathematics** from ICMC-USP (2026), with the dissertation *Text Mining in the Era of Large Language Models*, which received the **Best Master's Dissertation Award at WebMedia 2026**. During my master's I studied text representations, classification, automatic labeling, weakly supervised learning and LLM-based agents. Before that, I earned a **B.Sc. in Computer Engineering** from the University of São Paulo (2023), including an academic exchange at the **University of Porto**, Portugal, with a Santander scholarship.
 
 What I'm working on now
 ------

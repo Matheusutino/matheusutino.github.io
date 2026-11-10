@@ -56,6 +56,7 @@ Skills
 
 Awards
 ======
+* **Best Master's Dissertation Award**, Brazilian Symposium on Multimedia and the Web (WebMedia), 2026, for *Text Mining in the Era of Large Language Models*
 * Outstanding Student, University of São Paulo, 2019
 * **3rd / 303**, Generative AI Competition (Bitgrit), 2023
 * **1st / 10**, ML Olympiad: Urban Traffic Density (Kaggle), 2024
